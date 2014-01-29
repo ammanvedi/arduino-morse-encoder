@@ -1,4 +1,3 @@
-
 int led = 12;
 int led2 = 7;
 int ascii_offset = 97;
@@ -6,6 +5,7 @@ String data = "abc";
 int letter_space = 3;
 int dotdelay = 30;
 int word_space = 7;
+// outlines values for ABC, rest of alphabet can be filled out, to represent any string.
 String values[3] = {"132", "2313131","2313231"}; 
 
 void setup() {                
